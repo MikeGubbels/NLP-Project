@@ -3,10 +3,16 @@ NLP project waar we CVs en vacatures scannen en met NLP gaan matchen
 
 
 # Scope
-Voor [bedrijf] moet er een applicatie gemaakt worden die CV's en vacatures kan doornemen. 
-De CV's worden gerangschikt op beste tot slechste overeenkomst mbt de vacature.
+Er wordt een applicatie opgeleverd waar de klant één vacature en meerdere CV's kan uploaden met als doel de beste kandidaten achterhalen voor de vacature. De applicatie zal de CV's rangschikken op mate van relevantie en dit weergeven voor de klant. Het moet transparant zijn hoe de applicatie aan zijn keuze is gekomen.
 
-De applicatie kan meerdere CV's doornemen en is in staat de beste kandidaten voor een vacature weer te geven.
+# Aanleiding en achtergrond 
+Het aantal CV's per vacature dat opgestuurd wordt naar de klant stijgt exorbitant.
+De klant wil ondersteuning in het accuraat en efficiënt aannemen van geschikte kandidaten. De bedoeling is dat hiermee tijd en geld wordt bespaard.
+
+# Randvoorwaarden en beperkingen
+
+
+
 
 …………………………X
 
